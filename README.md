@@ -14,3 +14,4 @@ apenas anúncios permitidos serão presentes no site para manté-lo de pé, some
 ## Finalidade do programa
 1. Alternativa gratuita de streaming de diversos tipos
 2. Solução para pessoas com condições insuficientes para manter outros serviços
+3. Agradar as mais variáveis faixas etárias com o objetivo de entreterimento de diversos genêros
