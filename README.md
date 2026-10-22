@@ -9,6 +9,7 @@ plataforma digital que busca ser uma alternativa sem fins lucrativos ou infraç�
 3.  haverá uma opção de salvar uma biblioteca do site para assim não haver necessidade de manter varias aba do navegador aberto
 
 *Anúncios*
+
 apenas anúncios permitidos serão presentes no site para manté-lo de pé, somente enquanto o Site não é monetizado e se  tornar uma opção viável para as pessoas sem condições de pagar o streaming de empresas conhecidas.
 ## Finalidade do programa
 1. Alternativa gratuita de streaming de diversos tipos
